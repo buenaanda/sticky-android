@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can see the Registration screen</description>
+   <name>C786</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3e76bc7-b12a-494d-93af-61802d471bf0</testCaseGuid>
+</TestCaseEntity>
